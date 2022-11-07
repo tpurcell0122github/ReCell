@@ -1,2 +1,2 @@
 # ReCell
-A firm selling used electronic devices needs to update their understanding of pricing drivers as their market grows rapidly.
+Facing a rapidly growing market for its productas, a firm selling used electronic devices must update their understanding of pricing drivers to ensure their prices are competitive.
